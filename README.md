@@ -7,8 +7,9 @@ Actualmente soy estudiante en Tecnologías Computacionales.
 
 ## Mis habilidades
 
-Lenguajes
-
+<div>
+  <h4> Bases de datos</h4>
+  
   [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
   
 </div>
