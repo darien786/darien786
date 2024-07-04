@@ -1,13 +1,20 @@
+![](https://komarev.com/ghpvc/?username=darien786)
+
 # Hola!, Mi nombre es Darien 
 
-Actualmente soy estudiante en Tecnologías Computacionales
+Actualmente soy estudiante en Tecnologías Computacionales. 
 
-## **Tecnologías utilizadas**
 
+## Mis habilidades
+
+<h4>  Bases de datos </h4>
+<span>
+  [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+  
+</span>
 <div align='center'>
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 [![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
