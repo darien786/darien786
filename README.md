@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=darien786)
 
-# Hola!, Mi nombre es Darien 
+# Hola!, Mi nombre es Darien :wave:😃:
 
 Actualmente soy estudiante en Tecnologías Computacionales. 
 
