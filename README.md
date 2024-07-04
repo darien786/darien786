@@ -5,7 +5,7 @@
 Actualmente soy estudiante en Tecnologías Computacionales. 
 
 
-## Mis habilidades
+## Mis habilidades: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <div>
   <h4> Lenguajes </h4>
